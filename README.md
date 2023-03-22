@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Micelloplutarh
+- 👋 Hi, I’m @Meaeaea
 - 👀 I’m interested in Web development and mastering programming
 - 🌱 I’m currently learning A course on web development html css js 
 I hope to be able to do my first job soon
